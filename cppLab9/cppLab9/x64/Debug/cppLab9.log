@@ -1,0 +1,3 @@
+﻿  Task1.cpp
+D:\universitet\7semestr\пвсиб\лабы\cppLab9-master\cppLab9-master\cppLab9\Task1.cpp(64,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  cppLab9.vcxproj -> D:\universitet\7semestr\пвсиб\лабы\cppLab9-master\cppLab9-master\x64\Debug\cppLab9.exe
